@@ -10,3 +10,15 @@ The curriculum is based on the Strivers  A to Z DSA Sheet[curriculum]().
            -> bubble-sort - [path](https://github.com/aravindakuthota/DSA/blob/main/level2/bubblesort.java)
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aravindakuthota/DSA/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/aravindakuthota/DSA/tree/master/0151-reverse-words-in-a-string) |
+<!---LeetCode Topics End-->
